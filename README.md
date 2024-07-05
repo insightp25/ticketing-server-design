@@ -15,5 +15,5 @@
 
 # ERD 다이어그램
 
-![erd](./sources/erdv1.png)
+![erd](./sources/erdv2.png)
 
