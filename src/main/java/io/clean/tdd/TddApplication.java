@@ -1,13 +1,13 @@
-package reservation.ticket.concert;
+package io.clean.tdd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ConcertApplication {
+public class TddApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ConcertApplication.class, args);
+		SpringApplication.run(TddApplication.class, args);
 	}
 
 }

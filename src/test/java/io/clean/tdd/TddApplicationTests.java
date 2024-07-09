@@ -1,10 +1,10 @@
-package reservation.ticket.concert;
+package io.clean.tdd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConcertApplicationTests {
+class TddApplicationTests {
 
 	@Test
 	void contextLoads() {
